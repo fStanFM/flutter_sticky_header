@@ -9,8 +9,8 @@ dependencies:
   # value_layout_builder: ^0.3.0
   value_layout_builder:
       git:
-      url: https://github.com/fStanFM/value_layout_builder.git
-      ref: master
+        url: https://github.com/fStanFM/value_layout_builder.git
+        ref: master
 
 dev_dependencies:
   flutter_test:
